@@ -21,9 +21,6 @@
     <ClInclude Include="dllmain.h">
       <Filter>Header</Filter>
     </ClInclude>
-    <ClInclude Include="targetver.h">
-      <Filter>Header</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp">

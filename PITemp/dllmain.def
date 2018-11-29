@@ -1,4 +1,4 @@
-LIBRARY BIDSpp
+LIBRARY PITemp
 EXPORTS
 	Load
 	Dispose
