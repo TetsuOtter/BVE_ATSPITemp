@@ -40,7 +40,7 @@ struct Beacon		//Beacon‚ÉŠÖ‚·‚éî•ñ
 {
 	int Num = 0;	//Beacon‚Ì”Ô†
 	int Sig = 0;	//‘Î‰‚·‚é•ÂÇ‚ÌŒ»¦”Ô†
-	float X = 0;	//‘Î‰‚·‚é•ÂÇ‚Ü‚Å‚Ì‹——£[m]
+	float Z = 0;	//‘Î‰‚·‚é•ÂÇ‚Ü‚Å‚Ì‹——£[m]
 	int Data = 0;	//Beacon‚Ì‘æOˆø”‚Ì’l
 };
 
