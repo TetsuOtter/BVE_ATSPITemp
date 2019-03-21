@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2042
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28714.193
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PITemp", "PITemp\PITemp.vcxproj", "{E6918E77-9E5A-45B6-988B-390CC2E89BC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PITempCS", "PITempCS\PITempCS.csproj", "{15F8005B-285B-4B98-B4D8-13978AD876F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,18 @@ Global
 		{E6918E77-9E5A-45B6-988B-390CC2E89BC7}.Release|x64.ActiveCfg = Release|Win32
 		{E6918E77-9E5A-45B6-988B-390CC2E89BC7}.Release|x86.ActiveCfg = Release|Win32
 		{E6918E77-9E5A-45B6-988B-390CC2E89BC7}.Release|x86.Build.0 = Release|Win32
+		{15F8005B-285B-4B98-B4D8-13978AD876F8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{15F8005B-285B-4B98-B4D8-13978AD876F8}.Debug|Any CPU.Build.0 = Debug|x86
+		{15F8005B-285B-4B98-B4D8-13978AD876F8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{15F8005B-285B-4B98-B4D8-13978AD876F8}.Debug|x64.Build.0 = Debug|Any CPU
+		{15F8005B-285B-4B98-B4D8-13978AD876F8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15F8005B-285B-4B98-B4D8-13978AD876F8}.Debug|x86.Build.0 = Debug|Any CPU
+		{15F8005B-285B-4B98-B4D8-13978AD876F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F8005B-285B-4B98-B4D8-13978AD876F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F8005B-285B-4B98-B4D8-13978AD876F8}.Release|x64.ActiveCfg = Release|Any CPU
+		{15F8005B-285B-4B98-B4D8-13978AD876F8}.Release|x64.Build.0 = Release|Any CPU
+		{15F8005B-285B-4B98-B4D8-13978AD876F8}.Release|x86.ActiveCfg = Release|Any CPU
+		{15F8005B-285B-4B98-B4D8-13978AD876F8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
