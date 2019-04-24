@@ -20,7 +20,7 @@ namespace PITempCS
     [DllImport("ATS.dll", CallingConvention = CalCnv)]
     internal static extern void Initialize(int s);
     [DllImport("ATS.dll", CallingConvention = CalCnv)]
-    internal static extern unsafe void Elapse(State s, int* Pa, int* So);
+    internal static extern unsafe Hand Elapse(State s, int* Pa, int* So);
     [DllImport("ATS.dll", CallingConvention = CalCnv)]
     internal static extern void SetPower(int p);
     [DllImport("ATS.dll", CallingConvention = CalCnv)]
